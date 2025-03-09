@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pomfret-curry-recipe.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
